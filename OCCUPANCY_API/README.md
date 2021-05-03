@@ -5,6 +5,6 @@ Version: v1 / Last updated: 2021-05-03
 
 ## Description
 
-This repository contains a summary of project ![OCCUPANCY_API](img/occupancy.png).
+This repository contains a summary of project ![OCCUPANCY_API](img/occupancy_api.png).
 
-For more details, please check ![https://github.com/rcserban/portfolio-projects/OCCUPANCY_API](https://github.com/rcserban/portfolio-projects/OCCUPANCY_API)
+For more details, please check ![https://github.com/rcserban/portfolio-projects/tree/main/OCCUPANCY_API](https://github.com/rcserban/portfolio-projects/tree/main/OCCUPANCY_API)

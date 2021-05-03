@@ -7,4 +7,4 @@ Version: v1 / Last updated: 2021-05-03
 
 This repository contains a summary of project ![PowerEye](img/powereye.png).
 
-For more details, see ![https://github.com/rcserban/POWEREYE](https://github.com/rcserban/POWEREYE).
+For more details, see ![https://github.com/rcserban/portfolio-projects/tree/main/POWEREYE](https://github.com/rcserban/portfolio-projects/tree/main/POWEREYE).
